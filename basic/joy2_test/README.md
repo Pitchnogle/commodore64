@@ -11,9 +11,9 @@ The first line clears the screen
 
 The next few lines just define the character addresses where the joystick labels are joystick values will be displayed.
 ```
-20 fl=1024:rl=1027:ll=1030:
+20 fl=1024:rl=1027:ll=1030
 25 dl=1033:ul=1036
-30 fv=1064:rv=1067:lv=1070:
+30 fv=1064:rv=1067:lv=1070
 35 dv=1073:uv=1076
 ```
 
