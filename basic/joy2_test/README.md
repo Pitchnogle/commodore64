@@ -4,7 +4,7 @@ This is a simple test program using joystick 2 on a Commodore 64; it is written 
 
 _For convenience, the code can be cut and pasted into Vice. For this to work, the code must be written in lower case. It will automatically appear upper case in Vice._
 
-This clears the screen
+The first line clears the screen
 ```
 10 ?chr$(147)
 ```
@@ -17,7 +17,7 @@ The next few lines just define the character addresses where the joystick labels
 35 dv=1073:uv=1076
 ```
 
-The next section displays the joystick labels in the upper left of the screen. The numbers to the right of the `POKE` commands are the screen codes for letters: F, R, L, D, U.
+The next section displays the joystick labels in the upper left of the screen. The numbers to the right of the `POKE` commands are the screen codes for the letters: F, R, L, D, U.
 ```
 40 rem print labels
 45 poke fl,6
@@ -39,7 +39,7 @@ The next section grabs the joystick 2 register value then calculates the logic v
 105 u=(j2 and 1)=1
 ```
 
-The last section displays the logic values. It then just jumps back to reading the joystick again and on and on.
+The last section displays the logic values then repeats.
 ```
 110 rem print values
 120 poke fv,49+f
