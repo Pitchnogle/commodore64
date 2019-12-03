@@ -1,6 +1,6 @@
-# Commodore 64
+![Commodore 64](images/commodore_64_logo.png)
 
-## Reference
-- [Abbreviations](reference/abbreviations.md)  
-- [Colors](reference/colors.md)  
+## C64 Reference
+- [Basic Abbreviations](reference/abbreviations.md)  
+- [Color Palette](reference/colors.md)  
 
