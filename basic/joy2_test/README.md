@@ -38,7 +38,8 @@ The next section grabs the joystick 2 register value then calculates the logic v
 100 d=(j2 and 2)=2
 105 u=(j2 and 1)=1
 ```
-
+> The _no-stick_ default value is 127. When _Fire_ is pressed or the control is pushed in some direction, that bit actually turns off. So in the code above we are technically getting the opposite logic value. So, normally _Fire_ is 1, but turns to 0 when pressed. We take advantage of this logic in the next step.
+ 
 The last section displays the logic values then repeats.
 ```
 110 rem print values
@@ -49,3 +50,6 @@ The last section displays the logic values then repeats.
 140 poke uv,49+u
 150 goto 75
 ```
+
+> A _true_ value on the Commodore 64 reports back as -1, and _false_ is 0. So, we use this to turn our controller bits back into positive logic when reporting the value. When we poke 49, this shows up as a 1.
+
