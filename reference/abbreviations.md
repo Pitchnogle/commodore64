@@ -15,43 +15,43 @@ For example, the abbreviation for `PRINT` is a question mark. This saves some ty
 | CLR     | C shift L    | ![CLR](../images/abbr/clr.png)         |
 | CMD     | C shift M    | ![CMD](../images/abbr/cmd.png)         |
 | CONT    | C shift O    | ![CONT](../images/abbr/cont.png)       |
-| COS     | -none-       | ![COS](../images/abbr/cos.png)         |
+| COS     |              | ![COS](../images/abbr/cos.png)         |
 | DATA    | D shift A    | ![DATA](../images/abbr/data.png)       |
 | DEF     | D shift E    | ![DEF](../images/abbr/def.png)         |
 | DIM     | D shift I    | ![DIM](../images/abbr/dim.png)         |
 | END     | E shift N    | ![END](../images/abbr/end.png)         |
 | EXP     | E shift X    | ![EXP](../images/abbr/exp.png)         |
-| FN      | -none-       | ![FN](../images/abbr/fn.png)           |
+| FN      |              | ![FN](../images/abbr/fn.png)           |
 | FOR     | F shift O    | ![FOR](../images/abbr/for.png)         |
 | FRE     | F shift R    | ![FRE](../images/abbr/fre.png)         |
 | GET     | G shift E    | ![GET](../images/abbr/get.png)         |
-| GET#    | -none-       | ![GET#](../images/abbr/get#.png)       |
+| GET#    |              | ![GET#](../images/abbr/get2.png)       |
 | GOSUB   | GO shift S   | ![GOSUB](../images/abbr/gosub.png)     |
 | GOTO    | G shift O    | ![GOTO](../images/abbr/goto.png)       |
-| IF      | -none-       | ![IF](../images/abbr/if.png)           |
-| INPUT   | -none-       | ![INPUT](../images/abbr/input.png)     |
-| INPUT#  | I shift N    | ![INPUT#](../images/abbr/input#.png)   |
-| INT     | -none-       | ![INT](../images/abbr/int.png)         |
+| IF      |              | ![IF](../images/abbr/if.png)           |
+| INPUT   |              | ![INPUT](../images/abbr/input.png)     |
+| INPUT#  | I shift N    | ![INPUT#](../images/abbr/input2.png)   |
+| INT     |              | ![INT](../images/abbr/int.png)         |
 | LEFT$   | LE shift F   | ![LEFT$](../images/abbr/left$.png)     |
-| LEN     | -none-       | ![LEN](../images/abbr/len.png)         |
+| LEN     |              | ![LEN](../images/abbr/len.png)         |
 | LET     | L shift E    | ![LET](../images/abbr/let.png)         |
 | LIST    | L shift I    | ![LIST](../images/abbr/list.png)       |
 | LOAD    | L shift O    | ![LOAD](../images/abbr/load.png)       |
-| LOG     | -none-       | ![LOG](../images/abbr/log.png)         |
+| LOG     |              | ![LOG](../images/abbr/log.png)         |
 | MID$    | M shift I    | ![MID$](../images/abbr/mid$.png)       |
-| NEW     | -none-       | ![NEW](../images/abbr/new.png)         |
+| NEW     |              | ![NEW](../images/abbr/new.png)         |
 | NEXT    | N shift E    | ![NEXT](../images/abbr/next.png)       |
 | NOT     | N shift O    | ![NOT](../images/abbr/not.png)         |
-| ON      | -none-       | ![ON](../images/abbr/on.png)           |
+| ON      |              | ![ON](../images/abbr/on.png)           |
 | OPEN    | O shift P    | ![OPEN](../images/abbr/open.png)       |
-| OR      | -none-       | ![OR](../images/abbr/or.png)           |
+| OR      |              | ![OR](../images/abbr/or.png)           |
 | PEEK    | P shift E    | ![PEEK](../images/abbr/peek.png)       |
 | POKE    | P shift O    | ![POKE](../images/abbr/poke.png)       |
-| POS     | -none-       | ![POS](../images/abbr/pos.png)         |
+| POS     |              | ![POS](../images/abbr/pos.png)         |
 | PRINT   | ?            | ![PRINT](../images/abbr/print.png)     |
-| PRINT#  | P shift R    | ![PRINT#](../images/abbr/print#.png)   |
+| PRINT#  | P shift R    | ![PRINT#](../images/abbr/print2.png)   |
 | READ    | R shift E    | ![READ](../images/abbr/read.png)       |
-| REM     | -none-       | ![REM](../images/abbr/rem.png)         |
+| REM     |              | ![REM](../images/abbr/rem.png)         |
 | RESTORE | RE shift S   | ![RESTORE](../images/abbr/restore.png) |
 | RETURN  | RE shift T   | ![RETURN](../images/abbr/return.png)   |
 | RIGHT$  | R shift I    | ![RIGHT$](../images/abbr/right$.png)   |
@@ -60,15 +60,15 @@ For example, the abbreviation for `PRINT` is a question mark. This saves some ty
 | SAVE    | S shift A    | ![SAVE](../images/abbr/save.png)       |
 | SGN     | S shift G    | ![SGN](../images/abbr/sgn.png)         |
 | SIN     | S shift I    | ![SIN](../images/abbr/sin.png)         |
-| SPC(    | S shift P    | ![SPC(](../images/abbr/spc(.png)       |
+| SPC(    | S shift P    | ![SPC(](../images/abbr/spc.png)        |
 | SQR     | S shift Q    | ![SQR](../images/abbr/sqr.png)         |
 | STATUS  | ST           | ![STATUS](../images/abbr/status.png)   |
 | STEP    | ST shift E   | ![STEP](../images/abbr/step.png)       |
 | STOP    | S shift T    | ![STOP](../images/abbr/stop.png)       |
 | STR$    | ST shift R   | ![STR$](../images/abbr/str$.png)       |
 | SYS     | S shift Y    | ![SYS](../images/abbr/sys.png)         |
-| TAB(    | T shift A    | ![TAB(](../images/abbr/tab(.png)       |
-| TAN     | -none-       | ![TAN](../images/abbr/tan.png)         |
+| TAB(    | T shift A    | ![TAB(](../images/abbr/tab.png)        |
+| TAN     |              | ![TAN](../images/abbr/tan.png)         |
 | THEN    | T shift H    | ![THEN](../images/abbr/then.png)       |
 | TIME    | TI           | ![TIME](../images/abbr/time.png)       |
 | TIME$   | TI$          | ![TIME$](../images/abbr/time$.png)     |
